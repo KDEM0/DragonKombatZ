@@ -1,0 +1,4329 @@
+fileFormatVersion: 2
+guid: 380524259281c7248be736d7336649c6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Beasthansprite_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1247
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a44c89bbb69574e8c024f2f54d7540
+      internalID: -1016324432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1326
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb80219b3aea2654eb631461472b67d8
+      internalID: -1206830494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1326
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257e603869748ef45ad0c3d5e391d918
+      internalID: -1137089109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1326
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cacc786d18c5c4fa077c6d054137b3
+      internalID: -1708473282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1326
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec71baecdf260964db6c53a01c6d93f5
+      internalID: 1120347211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1326
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d8abb76b112d74d944cfad15d95581
+      internalID: -748385478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1326
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c475ca9ec91be9146941f4c1c0c16ccf
+      internalID: 808899538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1326
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84a5ff9e8b6c964ca7b005337b01d66
+      internalID: -1098251753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_9
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1326
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56312bce2397c874fbd12f71cdf4eba6
+      internalID: -1658214284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1326
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c031df22d957f46ba8813c271cbe1a
+      internalID: 554250237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_11
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1326
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7faf53d5c2f484e9dfa946738c494d
+      internalID: 1084738042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_12
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1326
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49faf021a06dab7439e8e7d8266bb180
+      internalID: -145240701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_13
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1247
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19210762f54a8ac458d33b4bf9bcf515
+      internalID: 1282138508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1247
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51367a54e4064240a49b9ad1996b930
+      internalID: 30084035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1247
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04558ec0180ba14ba6f48b08303ba69
+      internalID: -616609708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1247
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5c4cb02d5bd49408702c11138ba3e9
+      internalID: -897454900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1247
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d7d592bf83642438e266b5bdcf1482
+      internalID: -866985880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1247
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe2967be4a719b428e249c8e859ce8a
+      internalID: 163872694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1247
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceba877677f85da47943d586176bb997
+      internalID: -1036328631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_24
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1247
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cea4b764f61f584db26288549fc92c8
+      internalID: 1915622692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_25
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1247
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58f339b8fd6ddf4588c6a9bdecfa34b
+      internalID: -1651086122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_26
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1247
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a225667fe8fb6624ea1d03b8689a85b7
+      internalID: -1520400532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_28
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1247
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd208373adc5546bfa3d8bf372eb8f
+      internalID: -1147357716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_29
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1247
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a472affd226e714888b824c830c0478
+      internalID: 1861361179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_30
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1259
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffe0638852d4d3488ffbcf110ed2130
+      internalID: -1160034796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_31
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1247
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e508614b363b6144cbd3dce52d0ee75c
+      internalID: -755882773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_32
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1247
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c7009a2b41c714daf205475d077bb1
+      internalID: 1893077348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_33
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1247
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ad986a450e20943a218dbc55442087
+      internalID: -862809634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_35
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1253
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df80890764fcb4344b6ca1bd19431bc5
+      internalID: 1095915370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_36
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1251
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a40ca592167104d83427603e29a193
+      internalID: -1653242801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_37
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1247
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e589df1ad473e849a48e8c6087444d1
+      internalID: 618780898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_39
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1247
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075cc0e516c75fe4e86a0ce4a19ad40c
+      internalID: 1252500205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1180
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e96e5a2afd08a341abf055f5b9f291f
+      internalID: 2044790526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_41
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1180
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb02396602dafa147ae95e0e39bb1322
+      internalID: -1103169210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1180
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eee2f6080f674e42ac9630a2ea7e27b
+      internalID: -583670257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_43
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1180
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6a75c13e4b493458eb682be7196340
+      internalID: 1412237584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_45
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1180
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209277329c80cdb488fa0b861137b383
+      internalID: -143297758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_46
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1180
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee02ccef866948444accc31579c697d8
+      internalID: 1619442253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_47
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1180
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ed9702fc428f54ab5e6d0bf7afdddf
+      internalID: 867205697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1180
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a48685c60704c42a327372b50af1e9
+      internalID: -518595396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1180
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44688a128ef576743a9f6fdb3b49058f
+      internalID: 1805758000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_51
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1180
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8757097bf9946d54bb355028b102b29e
+      internalID: 211628923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_52
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1180
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05d4f6e66eafb045a534229e1267d0a
+      internalID: -1164662813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_53
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1180
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5934a10d317f6349a8718f8ccebf1b2
+      internalID: 537326478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_54
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1167
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef193b621566d240b0ed85c9cbe8024
+      internalID: 302354972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_55
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1176
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8d6c021f58591469efe7ad375e3ffd
+      internalID: -1385884397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1103
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5369433a6e153b49aa1af0ce6a4348b
+      internalID: 917975295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_57
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1103
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc775b6b745e4a744a185b84da5e425a
+      internalID: -329864847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_58
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1103
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f645be4634441419308dc42deed15f
+      internalID: -380284281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1103
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9634e7d293512ba44b5ccb4e6ade0427
+      internalID: 156874254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_60
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1103
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12937957cc74db4aab7442bab5cc988
+      internalID: 1910609452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_61
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1111
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ce4cc1beb9a4c419ea51280774032e
+      internalID: 1090579230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_62
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1103
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1115c0526cf82414abebc2651fa7dcd4
+      internalID: 428284880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_63
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1103
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442b896c4f1c2cd419e75ef82cd0d61f
+      internalID: 782106015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_64
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1103
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc44cbe7e1ba6f4286f92433bdb4b8e
+      internalID: -1591239274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_65
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1103
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c6bf2bbc3c16940b56caceb4f63c3d
+      internalID: 2124297448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_66
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1103
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939e965e1d93fc644af4eb2508186318
+      internalID: -1334572288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_67
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1111
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009f08986ac9fcd4894f0fec890f8103
+      internalID: -1649567770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_68
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1113
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75de3df3cae22134bb205f30db4db011
+      internalID: 1665198493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_69
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1103
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6d09aa310a0164aac35ef123e8f5df
+      internalID: -243288412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_70
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1104
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d68fbfece58b54f8e6283f4be3810a
+      internalID: 1544543077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_71
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1104
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ce93369a422464eb2a0653df34e77c
+      internalID: 1162272892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1027
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93058bdd4c9e59045b6a4ffe77365cc5
+      internalID: -935909809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_73
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1027
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6307411f27929ad40a6ee797752669f6
+      internalID: -1779975013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_74
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1027
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21212e98628c1c49bd2ca3deaf648ac
+      internalID: -989672943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1027
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6621de9180f75954dbd695996eebdd8d
+      internalID: -1348389295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_76
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1033
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0908595075850364996f432314314f79
+      internalID: 1883229723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_77
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1029
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b33401fe8bf60448d1676ad554753a
+      internalID: -1559084839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_78
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1027
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c714c2e2042c84e861b503d49acd31
+      internalID: -1985887080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_79
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1027
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba68955b2322cc45a1dd680321d98fb
+      internalID: -1102204766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_80
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1027
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533acde12948715438735840df55eb30
+      internalID: 860329609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_81
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1027
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1139a17457e80409943dd85d006afb
+      internalID: -250132449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_82
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1027
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf079484fee01424b8a98ae6dea90cb5
+      internalID: 2136920626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_83
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1027
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e47441c6498c24da3fd36225916b03
+      internalID: -616689910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_84
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1027
+        width: 75
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7d52ffcd6184d4dbe26e843ba718f9
+      internalID: -931499120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_85
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1027
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4458ea29147b2f43b2070d01c40bbed
+      internalID: 1156546891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_86
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1029
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b59ebc24d49dc84d86e997aa0381cbf
+      internalID: -282350889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_87
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 921
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecdd05dac4739649b1cee27a3694c5b
+      internalID: 1587983475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_91
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 921
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb472a971dee984cbdb214ad06b7ab2
+      internalID: 1011000295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_92
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 921
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8b811903c0bf840b1034c2e6b4b85e
+      internalID: -669766521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_93
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 921
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0e499212eede04b81d8e2aed448d47
+      internalID: 2145265855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_94
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 921
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7753855e7e68758418f4181897268535
+      internalID: -1938052320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_96
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 921
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7335569723aea40a4770ae0c7c03f2
+      internalID: 208435106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_97
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 921
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac92c5e71323078429891143585f121f
+      internalID: 427698692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_98
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 921
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4ec026414efa44b9badf078e21a516
+      internalID: 813644047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_99
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 921
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c962822a34197e4f9b410b78651f42a
+      internalID: -1663732969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_104
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 936
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2586abed843f943bda7c8d314ed09f
+      internalID: 484156268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_108
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 814
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf231eb8b68c63f4e8e60609c3d2c1e5
+      internalID: 922926462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_109
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 814
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98006776f9e4d5248b858db325499644
+      internalID: -875099200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_110
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 814
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d8c00b52b036a4b890b7afd6d0915d
+      internalID: 334828961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_111
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 814
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db87aed86eef8943b612cb1f7f9b8e1
+      internalID: 1944143995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_112
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 814
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0944bd55bb4674cbc0c709dad89287
+      internalID: 1386020791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_113
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 808
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb333282aef30044892de6b852b9db50
+      internalID: -1751228964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_114
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 823
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067209d49c6989e44982cc880c77e372
+      internalID: 1999293005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_116
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 811
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dea22622f8ce61499f2cb290abaf74d
+      internalID: 409769537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_117
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 811
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c82d23030797547bf93691109b09f7
+      internalID: -1921223069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_118
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 811
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdc288c8039ead4da661e415766bf51
+      internalID: -1857069797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_119
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 817
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b71a9e065aa9349b3834cb65bc85b0
+      internalID: 540378523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_120
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 817
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5149df99fea64d40a0e07f93588fece
+      internalID: -1414097435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_121
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 801
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29985839ca1d3e143b2fcf3418f9142d
+      internalID: 937321368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_122
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 801
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee1218179aa7db42a413885d8bc603b
+      internalID: -1530953461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_123
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 708
+        width: 105
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8475d8cdf003b041983e5e7a4476208
+      internalID: -1120482219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_124
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 721
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a493516a7eaf146aa626f1c7ffdc6f
+      internalID: 1604880569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_125
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 702
+        width: 120
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b487aae969cdfb845bc6fa8a0404df32
+      internalID: -214129104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_126
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 617
+        width: 13
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0992855db7d6c974aa5e4c23d078d626
+      internalID: -998504756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_127
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 661
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb6a93ff7de2e14c88417a9fff485da
+      internalID: -416115295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_128
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 661
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1165dee599ff95b4991812d08c9dea7e
+      internalID: 492003777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_129
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 661
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ced3f6cc6df994dad087169613c6fa
+      internalID: 538852822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_130
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 661
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e6738c53a333a4d8a7716bc900d1b9
+      internalID: -1903681701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_131
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 661
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19600e93ee0d98046bcc400a94f29c20
+      internalID: -1218629148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_132
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 661
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd15b7e0b0da1e849b03d74a236b6fc9
+      internalID: 1809656831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_133
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 661
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba98b32d12254e47b32dfd452505617
+      internalID: -2032298290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_134
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 661
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faee75c0f317324aa2a212f90ba0f12
+      internalID: -1469382285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_135
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 661
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d767fde0ddb0e44bdc73570197740d
+      internalID: -1049792497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_136
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 661
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242d3ba5156cbb442a903f3f70d210d5
+      internalID: 1114019662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_137
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 661
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa7b76c3edfb8649ba35f50d3de6d7f
+      internalID: -303289614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_138
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 693
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aab4c8f7cca92459b36adea5063f61
+      internalID: 838269477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_139
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 700
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcd6730feffdfd489f960602ca03fbd
+      internalID: 857902882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_140
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 678
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cfd758e4f0a3d4dbe2f42fe1a79068
+      internalID: -947626788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_141
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 615
+        width: 105
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacc74e74ff761a4ab22d6032cf4dcc6
+      internalID: -1429337851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_142
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 612
+        width: 121
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c110cf53242da74a93923891e3ccfc3
+      internalID: -1818771364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_143
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 633
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74df4b3f22889114f98da220651425df
+      internalID: 2009164772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_144
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 507
+        width: 121
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e02b92d000be614789200d76df7bcdf
+      internalID: 1981754760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_145
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 528
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004becfab1eaefc4e89fb75e4165da53
+      internalID: 671707529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_146
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 505
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a73f57c7fb59e4db5d6f91229675dc
+      internalID: -787989190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_147
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 416
+        width: 13
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c284b10556e16a24a90c320b6fdd9c9c
+      internalID: -515758235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_148
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 468
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0d9e53cff74fd4f93fba403b47c6f4
+      internalID: -1979089814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_149
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 468
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c5307b73fd7764f991857a3a6184f7
+      internalID: -1305069920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_150
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 471
+        width: 75
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b336ec67065b428438543d01c084011d
+      internalID: -777786020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_151
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 471
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4b2cd1ab7850d458a0d508578dd73f
+      internalID: 992699313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_152
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 468
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649156558056d264aaaddebf08746d53
+      internalID: -222619756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_153
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 468
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cc23cac99cc3f4cb95fd0e457a8285
+      internalID: 1868095333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_154
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 468
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623df0980d1133a4b83f1c981d2accbd
+      internalID: -505871976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_155
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 468
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b156769433b422542bb08285ae9ff2e8
+      internalID: 1823886364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_156
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 468
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc22855a48d3ce4bb9436d866eea8e3
+      internalID: 1342881316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_157
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 468
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75700ac9821ef564d9ecfaef64a698a5
+      internalID: -1941763596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_158
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 492
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c166dc986ddb5524da3cb20209150084
+      internalID: 1496626499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_159
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 499
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef81af87e7d4334ca9a820f709a2db2
+      internalID: 1303503953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_160
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 410
+        width: 120
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3cfc77b5aa8814eb8e700113562a94
+      internalID: -628961847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_161
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 429
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3d80497f957e744b1fa9ecd038562c
+      internalID: -104181809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_162
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 429
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8440a319d8ad44eb8d1678d4b5b21d
+      internalID: 2019235570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_163
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 408
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4ec35b227ee964385fd312864a600f
+      internalID: 822578197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_164
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 293
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4887ac3db59147e418811e728f25c364
+      internalID: -542426814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_165
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 293
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b716f27e95611184a9a4dca8b7ae880b
+      internalID: 80474591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_166
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 293
+        width: 85
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e68275f398bfba449f9b0fcc299944a
+      internalID: -1927597877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_167
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 293
+        width: 91
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206df290f2383104ea839f3698f21fc4
+      internalID: 2133718298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_168
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 293
+        width: 94
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a31b48e50ae71349a1c85737a0a43b8
+      internalID: -172634877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_169
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 293
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4344de8a23c9534c9e04d765009bbb4
+      internalID: -1193655110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_170
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 279
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5921c3868efe143854d3d6dc83a5e2
+      internalID: -150875398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_171
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 283
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672c51e149abbd2488b1efdbe8eb364d
+      internalID: -123232916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_172
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 276
+        width: 94
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475dbb44252903b4d8317599fb2f3497
+      internalID: -1264208344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_173
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 293
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2a85dc393093e42bb6b7fc76c5f056
+      internalID: 838995500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_174
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 293
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361bbaf4093d1c4439074956cfa317f4
+      internalID: -1630265308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_175
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 293
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc53dfdf5b35eca46b74f786028ba676
+      internalID: -2013828408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_176
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 293
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f75596fa0076704ba12a8a95ef179d6
+      internalID: -363923574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_177
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 206
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4093368cf0ff0cc45918682852f81fd9
+      internalID: 2131279815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_178
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 211
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7668cd76e50c14fbbbb0fd25b2d433
+      internalID: 1498172645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_179
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 213
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87dce02d5b22424db7f6f40c5bd9791
+      internalID: 810649324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_180
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 205
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee060bce74d93764cb7b37685d530b32
+      internalID: 2009136376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_181
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 154
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16d712e3e943e047825fa9a850150bb
+      internalID: 1006906806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_182
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 166
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b078e8fd53b3b40954ffb1d6995c62
+      internalID: 2073637162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_183
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 161
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8113e3ee5d43ba04290d03deca41db0f
+      internalID: 66418291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_184
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 150
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f0ad092f3a44a40875234211590d99
+      internalID: 2086718289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_185
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 102
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679066412f3cb8446b8b37b0aca64174
+      internalID: 962974184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_186
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 111
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee12d23f5c5cd742bb6b2bc198e6434
+      internalID: 1272044513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_187
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 108
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e56b12d2f3e43429fb3aa033784e36
+      internalID: -940455467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_188
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 103
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bc14c873eddd74bb068cb75e76bbcf
+      internalID: 1699949957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_189
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 19
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c737eed5d741d245bc75b3e27f0e7c1
+      internalID: 926193499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_190
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 19
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df60b89388b81a044846f8711c868cef
+      internalID: 1981667972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_191
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 19
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b627926e01d53745804ff7f06e7063f
+      internalID: 1313516519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_192
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 19
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0908f66294f218498d10508b5de8054
+      internalID: -2119911842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_193
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 75
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca797510033e4544ab00a54ff21b140
+      internalID: -502020071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_194
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 19
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501f06efc8a7cd8468196e3a21b3184c
+      internalID: 344831409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_195
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 19
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13da12a0205dc3b4cb74e1e47f815e89
+      internalID: -1552724748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_196
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 25
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c543700a6048bab4ea62dd75a5db1510
+      internalID: 731456710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_197
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 21
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634a3080962ed0c4d87ecb5d99288d49
+      internalID: -1871185097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_198
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 19
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e383563d585824f92a4025e52e8d30
+      internalID: -1644427326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_199
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 19
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300be265b8fb9df4e85d9370a5c3c5f9
+      internalID: -1204838832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_200
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 19
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac28c45f767c85541adf10679bd6852e
+      internalID: 1929806969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_201
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 19
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09af4d73113d91e4fa9e38d386d63d0a
+      internalID: -942346350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_202
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 19
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d67213e89ba37b44a2c27f7f2113c0d
+      internalID: -1997667315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_203
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 19
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e9e1e289ff6374aa05370daa952bc6
+      internalID: 1893027722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_204
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 65
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f452a92c573252b4c8b5667e981eaaab
+      internalID: 1384811715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_205
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 19
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13647371b3804264d98dfcc22eb6087f
+      internalID: 992649237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_206
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 19
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf9b33e27667444c937c9411f01a6f2
+      internalID: 589930055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_207
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 19
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b3bfa31aaa9614385ebe2636ea1589
+      internalID: -170495455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_208
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 19
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4fa5572419ca645afa461e84043003
+      internalID: -129775998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_209
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 54
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3575d6bfeb423f48ae70d88f4bc9ff3
+      internalID: -355107658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_210
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 44
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad8d61fe2b993c419d608df230e9ad2
+      internalID: -1907164637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beasthansprite_211
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 19
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd109cfd2d7a6f4cb18f17d3c7ed252
+      internalID: 128834136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Beasthansprite_0: -1016324432
+      Beasthansprite_1: -1206830494
+      Beasthansprite_10: 554250237
+      Beasthansprite_100: 76278536
+      Beasthansprite_101: -861591569
+      Beasthansprite_102: 1578847561
+      Beasthansprite_103: 1211534796
+      Beasthansprite_104: 484156268
+      Beasthansprite_105: 460466696
+      Beasthansprite_106: 498949538
+      Beasthansprite_107: 859543095
+      Beasthansprite_108: 922926462
+      Beasthansprite_109: -875099200
+      Beasthansprite_11: 1084738042
+      Beasthansprite_110: 334828961
+      Beasthansprite_111: 1944143995
+      Beasthansprite_112: 1386020791
+      Beasthansprite_113: -1751228964
+      Beasthansprite_114: 1999293005
+      Beasthansprite_115: -1263615563
+      Beasthansprite_116: 409769537
+      Beasthansprite_117: -1921223069
+      Beasthansprite_118: -1857069797
+      Beasthansprite_119: 540378523
+      Beasthansprite_12: -145240701
+      Beasthansprite_120: -1414097435
+      Beasthansprite_121: 937321368
+      Beasthansprite_122: -1530953461
+      Beasthansprite_123: -1120482219
+      Beasthansprite_124: 1604880569
+      Beasthansprite_125: -214129104
+      Beasthansprite_126: -998504756
+      Beasthansprite_127: -416115295
+      Beasthansprite_128: 492003777
+      Beasthansprite_129: 538852822
+      Beasthansprite_13: 1282138508
+      Beasthansprite_130: -1903681701
+      Beasthansprite_131: -1218629148
+      Beasthansprite_132: 1809656831
+      Beasthansprite_133: -2032298290
+      Beasthansprite_134: -1469382285
+      Beasthansprite_135: -1049792497
+      Beasthansprite_136: 1114019662
+      Beasthansprite_137: -303289614
+      Beasthansprite_138: 838269477
+      Beasthansprite_139: 857902882
+      Beasthansprite_14: -1767291943
+      Beasthansprite_140: -947626788
+      Beasthansprite_141: -1429337851
+      Beasthansprite_142: -1818771364
+      Beasthansprite_143: 2009164772
+      Beasthansprite_144: 1981754760
+      Beasthansprite_145: 671707529
+      Beasthansprite_146: -787989190
+      Beasthansprite_147: -515758235
+      Beasthansprite_148: -1979089814
+      Beasthansprite_149: -1305069920
+      Beasthansprite_15: -596730660
+      Beasthansprite_150: -777786020
+      Beasthansprite_151: 992699313
+      Beasthansprite_152: -222619756
+      Beasthansprite_153: 1868095333
+      Beasthansprite_154: -505871976
+      Beasthansprite_155: 1823886364
+      Beasthansprite_156: 1342881316
+      Beasthansprite_157: -1941763596
+      Beasthansprite_158: 1496626499
+      Beasthansprite_159: 1303503953
+      Beasthansprite_16: -554307247
+      Beasthansprite_160: -628961847
+      Beasthansprite_161: -104181809
+      Beasthansprite_162: 2019235570
+      Beasthansprite_163: 822578197
+      Beasthansprite_164: -542426814
+      Beasthansprite_165: 80474591
+      Beasthansprite_166: -1927597877
+      Beasthansprite_167: 2133718298
+      Beasthansprite_168: -172634877
+      Beasthansprite_169: -1193655110
+      Beasthansprite_17: 30084035
+      Beasthansprite_170: -150875398
+      Beasthansprite_171: -123232916
+      Beasthansprite_172: -1264208344
+      Beasthansprite_173: 838995500
+      Beasthansprite_174: -1630265308
+      Beasthansprite_175: -2013828408
+      Beasthansprite_176: -363923574
+      Beasthansprite_177: 2131279815
+      Beasthansprite_178: 1498172645
+      Beasthansprite_179: 810649324
+      Beasthansprite_18: -616609708
+      Beasthansprite_180: 2009136376
+      Beasthansprite_181: 1006906806
+      Beasthansprite_182: 2073637162
+      Beasthansprite_183: 66418291
+      Beasthansprite_184: 2086718289
+      Beasthansprite_185: 962974184
+      Beasthansprite_186: 1272044513
+      Beasthansprite_187: -940455467
+      Beasthansprite_188: 1699949957
+      Beasthansprite_189: 926193499
+      Beasthansprite_19: -897454900
+      Beasthansprite_190: 1981667972
+      Beasthansprite_191: 1313516519
+      Beasthansprite_192: -2119911842
+      Beasthansprite_193: -502020071
+      Beasthansprite_194: 344831409
+      Beasthansprite_195: -1552724748
+      Beasthansprite_196: 731456710
+      Beasthansprite_197: -1871185097
+      Beasthansprite_198: -1644427326
+      Beasthansprite_199: -1204838832
+      Beasthansprite_2: -615155706
+      Beasthansprite_20: -866985880
+      Beasthansprite_200: 1929806969
+      Beasthansprite_201: -942346350
+      Beasthansprite_202: -1997667315
+      Beasthansprite_203: 1893027722
+      Beasthansprite_204: 1384811715
+      Beasthansprite_205: 992649237
+      Beasthansprite_206: 589930055
+      Beasthansprite_207: -170495455
+      Beasthansprite_208: -129775998
+      Beasthansprite_209: -355107658
+      Beasthansprite_21: 163872694
+      Beasthansprite_210: -1907164637
+      Beasthansprite_211: 128834136
+      Beasthansprite_22: -1902068611
+      Beasthansprite_23: -1036328631
+      Beasthansprite_24: 1915622692
+      Beasthansprite_25: -1651086122
+      Beasthansprite_26: -1520400532
+      Beasthansprite_27: -1283178102
+      Beasthansprite_28: -1147357716
+      Beasthansprite_29: 1861361179
+      Beasthansprite_3: -1137089109
+      Beasthansprite_30: -1160034796
+      Beasthansprite_31: -755882773
+      Beasthansprite_32: 1893077348
+      Beasthansprite_33: -862809634
+      Beasthansprite_34: 361231380
+      Beasthansprite_35: 1095915370
+      Beasthansprite_36: -1653242801
+      Beasthansprite_37: 618780898
+      Beasthansprite_38: -1742909794
+      Beasthansprite_39: 1252500205
+      Beasthansprite_4: -1708473282
+      Beasthansprite_40: 2044790526
+      Beasthansprite_41: -1103169210
+      Beasthansprite_42: -583670257
+      Beasthansprite_43: 1412237584
+      Beasthansprite_44: -1922767227
+      Beasthansprite_45: -143297758
+      Beasthansprite_46: 1619442253
+      Beasthansprite_47: 867205697
+      Beasthansprite_48: 274033720
+      Beasthansprite_49: -518595396
+      Beasthansprite_5: 1120347211
+      Beasthansprite_50: 1805758000
+      Beasthansprite_51: 211628923
+      Beasthansprite_52: -1164662813
+      Beasthansprite_53: 537326478
+      Beasthansprite_54: 302354972
+      Beasthansprite_55: -1385884397
+      Beasthansprite_56: 917975295
+      Beasthansprite_57: -329864847
+      Beasthansprite_58: -380284281
+      Beasthansprite_59: 156874254
+      Beasthansprite_6: -748385478
+      Beasthansprite_60: 1910609452
+      Beasthansprite_61: 1090579230
+      Beasthansprite_62: 428284880
+      Beasthansprite_63: 782106015
+      Beasthansprite_64: -1591239274
+      Beasthansprite_65: 2124297448
+      Beasthansprite_66: -1334572288
+      Beasthansprite_67: -1649567770
+      Beasthansprite_68: 1665198493
+      Beasthansprite_69: -243288412
+      Beasthansprite_7: 808899538
+      Beasthansprite_70: 1544543077
+      Beasthansprite_71: 1162272892
+      Beasthansprite_72: -935909809
+      Beasthansprite_73: -1779975013
+      Beasthansprite_74: -989672943
+      Beasthansprite_75: -1348389295
+      Beasthansprite_76: 1883229723
+      Beasthansprite_77: -1559084839
+      Beasthansprite_78: -1985887080
+      Beasthansprite_79: -1102204766
+      Beasthansprite_8: -1098251753
+      Beasthansprite_80: 860329609
+      Beasthansprite_81: -250132449
+      Beasthansprite_82: 2136920626
+      Beasthansprite_83: -616689910
+      Beasthansprite_84: -931499120
+      Beasthansprite_85: 1156546891
+      Beasthansprite_86: -282350889
+      Beasthansprite_87: 1587983475
+      Beasthansprite_88: 1647446914
+      Beasthansprite_89: 207597011
+      Beasthansprite_9: -1658214284
+      Beasthansprite_90: -839879052
+      Beasthansprite_91: 1011000295
+      Beasthansprite_92: -669766521
+      Beasthansprite_93: 2145265855
+      Beasthansprite_94: -1938052320
+      Beasthansprite_95: 1080880576
+      Beasthansprite_96: 208435106
+      Beasthansprite_97: 427698692
+      Beasthansprite_98: 813644047
+      Beasthansprite_99: -1663732969
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
